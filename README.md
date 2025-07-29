@@ -79,7 +79,3 @@ Brooklyn, New York | 2024
 ---
 
 *Technology is humanity's greatest lever for increasing abundance, yet the technology for organizing people has not evolved. Merit is building the infrastructure for humanity's next chapter.*
-
-
-<img width="472" height="678" alt="Screenshot 2025-07-29 at 1 31 44 PM" src="https://github.com/user-attachments/assets/908d0ef6-1b18-45b4-a587-b7fe61d57733" />
-
