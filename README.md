@@ -6,7 +6,7 @@ Merit Systems is building the infrastructure for a new commons where builders tr
 
 # **Bringing the Manifesto to Life**
 
-What began as a conversation over a Christmas pint soon became blocks of texts and early rough drafts. Sam and Ryan had a brilliant idea in the tryworks, and we made it our goal to publish a piece that shared these ideas with the world.
+What began as a conversation over a Christmas pint soon became blocks of texts and early rough drafts. Sam and Ryan had a brilliant idea in the tryworks, and we made it our goal to publish a piece that shared these ideas with the world in a clean, accessible format.
 
 # **Critical Dependency: Emily Devery**
 
