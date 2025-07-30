@@ -18,7 +18,7 @@ Emily's contributions:
 - Typography selection that made technical concepts approachable
 - Visual hierarchy that guided readers through complex arguments
 
-The content remained unchanged, but Emily's design work transformed an rough draft into a final proof that could convince people to care.
+The content remained unchanged, but Emily's design work transformed a rough draft into a final proof that could convince people to care.
 
 # **Printing Woes**
 Printing should have been straightforward: take Emily's beautifully designed PDF, send to printer, receive books. Instead, it became a months-long debugging session.
@@ -30,7 +30,7 @@ Issues encountered:
 - Binding specifications incompatible with layout requirements
 - Multiple printer iterations, each introducing new failure modes
 
-I became an accidental expert in print production: paper weights, color management, binding techniques. None of this was in the original scope, but it was blocking ship. While Sam and Ryan could focus on content iteration and building out the Merit platfrom, I found myself deep in the manufacturing pipeline, solving print problems we had not considered.
+I became an accidental expert in print production: paper weights, color management, binding techniques. None of this was in the original scope, but it was blocking ship. While Sam and Ryan could focus on content iteration and building out the Merit platfrom, I found myself deep in the manufacturing pipeline, solving print problems precluding the final product.
 
 
 # **Publisher's Retrospective**
