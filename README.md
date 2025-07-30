@@ -46,6 +46,9 @@ Brooklyn, New York | 2024
 
 
 # **Production Photos**
+EARLY, ROUGH, draft.
+<img width="496" height="704" alt="Screenshot 2025-07-30 at 10 46 38 AM" src="https://github.com/user-attachments/assets/60ae1a71-af18-42b6-b23e-6293b6e789d9" />
+The workshop floor...
 ![IMG_2380](https://github.com/user-attachments/assets/d7dd13a1-26a5-4a1f-9b5e-41605fcd8d16)
 ![IMG_2398](https://github.com/user-attachments/assets/63f12506-0b28-4f62-9900-bdcf21df52bd)
 ![IMG_2401](https://github.com/user-attachments/assets/ff369ecb-b26c-4424-b4bb-04cac240857d)
