@@ -2,7 +2,7 @@
 
 > **The coordination company for the information economy**
 
-Merit Systems is building the infrastructure for a new commons where builders truly own what they build, attribution flows naturally, and human ingenuity is properly aligned and incentivized toward humanity's biggest challenges.
+> Merit Systems is building the infrastructure for a new commons where builders truly own what they build, attribution flows naturally, and human ingenuity is properly aligned and incentivized toward humanity's biggest challenges.
 
 # **Bringing the Manifesto to Life**
 
