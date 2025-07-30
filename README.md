@@ -16,7 +16,7 @@ Emily's contributions:
 
 The content remained unchanged, but Emily's design work transformed an rough draft into a final proof that could convince people to care.
 
-# **Manufacturing Hell**
+# **Printing Woes**
 Printing should have been straightforward: take Emily's beautifully designed PDF, send to printer, receive books. Instead, it became a months-long debugging session that you handled end-to-end.
 Issues encountered:
 
