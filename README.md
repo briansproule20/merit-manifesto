@@ -21,7 +21,8 @@ Emily's contributions:
 The content remained unchanged, but Emily's design work transformed an rough draft into a final proof that could convince people to care.
 
 # **Printing Woes**
-Printing should have been straightforward: take Emily's beautifully designed PDF, send to printer, receive books. Instead, it became a months-long debugging session that you handled end-to-end.
+Printing should have been straightforward: take Emily's beautifully designed PDF, send to printer, receive books. Instead, it became a months-long debugging session.
+
 Issues encountered:
 
 - Color profiles that worked on screen failed in print
@@ -29,7 +30,7 @@ Issues encountered:
 - Binding specifications incompatible with layout requirements
 - Multiple printer iterations, each introducing new failure modes
 
-I became an accidental expert in print production: paper weights, color management, binding techniques. None of this was in the original scope, but it was blocking ship. While Sam and Ryan could focus on content iteration and building out the Merit platfrom, I found myself deep in the manufacturing pipeline, solving print problems we had never even considered.
+I became an accidental expert in print production: paper weights, color management, binding techniques. None of this was in the original scope, but it was blocking ship. While Sam and Ryan could focus on content iteration and building out the Merit platfrom, I found myself deep in the manufacturing pipeline, solving print problems we had not considered.
 
 
 # **Publisher's Retrospective**
