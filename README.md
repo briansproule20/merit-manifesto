@@ -4,7 +4,7 @@
 
 Merit Systems is building the infrastructure for a new commons where builders truly own what they build, attribution flows naturally, and human ingenuity is properly aligned and incentivized toward humanity's biggest challenges.
 
-**Critical Dependency: Emily Devery**
+# **Critical Dependency: Emily Devery**
 
 Bringing Emily onto the project changed everything. This wasn't just a typography cleanup, she completely streamlined the communication architecture.
 Emily's contributions:
