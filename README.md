@@ -40,6 +40,10 @@ Brooklyn, New York | 2024
 - **Sam Ragsdale** - Founder & Chief Executive Officer
 - **Ryan Sproule** - Founder & Chief Technology Officer
 
+
+# **Production Photos**
+![IMG_2380](https://github.com/user-attachments/assets/d7dd13a1-26a5-4a1f-9b5e-41605fcd8d16)
+
 ---
 
 *Technology is humanity's greatest lever for increasing abundance, yet the technology for organizing people has not evolved. Merit is building the infrastructure for humanity's next chapter.*
