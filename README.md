@@ -18,7 +18,7 @@ Emily's contributions:
 - Typography selection that made technical concepts approachable
 - Visual hierarchy that guided readers through complex arguments
 
-The content remained unchanged, but Emily's design work transformed a rough draft into a final proof that could convince people to care.
+The content remained unchanged, but Emily's design work transformed a rough draft into a final proof.
 
 # **Printing Woes**
 Printing should have been straightforward: take Emily's beautifully designed PDF, send to printer, receive books. Instead, it became a months-long debugging session.
